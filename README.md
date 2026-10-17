@@ -81,13 +81,13 @@ GET /api/hunters?rank=S&class=Necromancer
 ## Proof that it runs
 
 ### 1. Register (201)
-![1 Register](screenshots/01-register.png)
+![1 Register](image-1.png)
 
 ### 2. Login (200)
-![2 Login](screenshots/02-login.png)
+![2 Login](image-2.png)
 
 ### 3. List hunters with no token (401)
-![3 No token](screenshots/03-no-token.png)
+![3 No token](image-3.png)
 
 ### 4. List hunters with token (200)
 ![4 With token](screenshots/04-with-token.png)
