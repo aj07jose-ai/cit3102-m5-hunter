@@ -81,34 +81,34 @@ GET /api/hunters?rank=S&class=Necromancer
 ## Proof that it runs
 
 ### 1. Register (201)
-![1 Register](image.png)
+![1 Register](image-1.png)
 
 ### 2. Login (200)
-![2 Login](image-2.png)
+![2 Login](image-12.png)
 
 ### 3. List hunters with no token (401)
-![3 No token](image-4.png)
+![3 No token](image-14.png)
 
 ### 4. List hunters with token (200)
-![4 With token](image-7.png)
+![4 With token](image-15.png)
 
 ### 5. Create hunter with valid data (201)
-![5 Create](image-5.png)
+![5 Create](image-16.png)
 
 ### 6. Create hunter with a missing field (422)
-![6 Validation error](image-6.png)
+![6 Validation error](image-17.png)
 
 ### 7. Show hunter 1 (200)
-![7 Show](image-8.png)
+![7 Show](image-18.png)
 
 ### 8. Show hunter 99999 (404)
-![8 Not found](image-9.png)
+![8 Not found]!(image-19.png)
 
 ### 9. Update hunter 1 (200)
-![9 Update](image-10.png)
+![9 Update](image-20.png)
 
 ### 10. Delete hunter 1 (204)
-![10 Delete](image-11.png)
+![10 Delete](image-21.png)
 
 ---
 
