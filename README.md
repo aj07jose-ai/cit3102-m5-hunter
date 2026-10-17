@@ -1,8 +1,11 @@
 # Solo Leveling API (Hunters)
 
 **Course:** CIT3102 · Module 5, Build Your Own API
+
 **Section:** IT2E
+
 **Partners:** Adrian Jose and Juan Rodrigo Mayor
+
 **Resource:** Hunter (a hunter from the Solo Leveling world)
 
 A REST API built with Laravel, SQLite and Laravel Sanctum. It manages **hunters** with full CRUD, query-string filtering, and token authentication.
